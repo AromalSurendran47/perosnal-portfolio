@@ -12,6 +12,7 @@ import {
   SiNetlify,
   SiAmazonec2,
   SiAmazoncloudwatch,
+  SiServerless,
 } from "react-icons/si";
 
 function Toolstack() {
@@ -36,11 +37,12 @@ function Toolstack() {
         <SiNetlify />
         
       </Col>
+
       <Col xs={4} md={2} className="tech-icons">
         <SiAmazonec2 />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiAmazoncloudwatch />
+        <SiServerless />
       </Col>
     </Row>
   );
