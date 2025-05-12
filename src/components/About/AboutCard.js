@@ -11,7 +11,7 @@
                 Hi Everyone, I am <span className="purple">Aromal Surendran </span>
                 from <span className="purple"> Kollam, India.</span>
                 <br />
-                I am currently employed as a software Engineer at  <span className="purple">UST Global. </span>
+                I am currently employed as a software Engineer at  <span className="purple">RankRizers. </span>
                 <br />
 
                 <br />

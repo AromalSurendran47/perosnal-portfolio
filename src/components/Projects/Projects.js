@@ -4,10 +4,10 @@ import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
 import leaf from "../../Assets/Projects/leaf.png";
 import emotion from "../../Assets/Projects/emotion.png";
-import baker from "../../Assets/Projects/baker.png";
-import aromal from "../../Assets/Projects/aro.png";
+import baker from "../../Assets/Projects/a2.png";
+import aromal from "../../Assets/Projects/a1.png";
 import suicide from "../../Assets/Projects/suicide.png";
-import pedro from "../../Assets/Projects/pedro.png";
+import pedro from "../../Assets/Projects/a3.png";
 
 function Projects() {
   return (
